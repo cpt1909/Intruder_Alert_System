@@ -37,15 +37,6 @@ API Response:
 
 [![API Response](https://i.postimg.cc/q70YHQ9J/response.png)](https://postimg.cc/TK7QrjdF)
 
-Sample Output Message:
-
-[![intruder-face.jpg](https://i.postimg.cc/qBtr5THs/intruder-face.jpg)](https://postimg.cc/HjCFrFxn)
-
-Telegram Chat:
-
-[![Telegram Chat.png](https://i.postimg.cc/vBqK2tQ7/chat.png)](https://postimg.cc/2bWTVvL3)
-
-
 ## Acknowledgements
 
  - [Telegram APIs](https://core.telegram.org/api/push-updates)
