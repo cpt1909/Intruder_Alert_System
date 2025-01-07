@@ -3,7 +3,7 @@
 This project builds a real-time face detection system with intruder alerts sent directly to your Telegram! It uses OpenCV to scan your webcam feed for faces, highlighting them with a green box. If a face is detected, it captures an image, sends it to your specified Telegram chat along with a message, and acknowledges whether the message delivery was successful or not.
 
 ## Authors
--  Thaarakenth C P - [@cpt2004](https://www.github.com/cpt2004)
+-  Thaarakenth C P - [@cpt1909](https://www.github.com/cpt1909)
 
 ## Features
 
